@@ -1,16 +1,26 @@
-{
-#Initial Template for Python 3
-#Contributed by : Nagendra Jha
-import atexit
-import io
-import sys
-_INPUT_LINES = sys.stdin.read().splitlines()
-input = iter(_INPUT_LINES).__next__
-_OUTPUT_BUFFER = io.StringIO()
-sys.stdout = _OUTPUT_BUFFER
-@atexit.register
-def write():
-    sys.__stdout__.write(_OUTPUT_BUFFER.getvalue())
+
+
+def addBoth(head_a,head_b):
+    #code here
+    result = LinkedList()
+    num1 = ""
+    curr_node = head_a
+    while curr_node != None:
+        num1 += str(curr_node.data)
+        curr_node = curr_node.next
+    num1 = num1[::-1]
+    num2 = ""
+    curr_node = head_b
+    while curr_node != None:
+        num2 += str(curr_node.data)
+        curr_node = curr_node.next
+    num2 = num2[::-1]
+    num = int(num1) + int(num2)
+    num = str(num)[::-1]
+    for i in num:
+        result.append(i)
+    return result.head
+
     
 # Node Class
 class Node:
@@ -58,45 +68,4 @@ if __name__ == '__main__':
             b.append(x)  # add to the end of the list
         result_head = addBoth(a.head,b.head)
         printList(result_head)
-}
-''' This is a function problem.You only need to complete the function given below '''
-#User function Template for python3
-'''
-	Function to add two numbers represented 
-	in the form of the linked list.
-	
-	Function Arguments: head_a and head_b (heads of both the linked lists)
-	Return Type: head of the resultant linked list.
-    
-    __>IMP : numbers are represented in reverse in the linked list.
-    Ex:
-        145 is represented as  5->4->1.
-    
-    resultant head is expected in the same format.
-    
-# Node Class
-class Node:
-    def __init__(self, data):   # data -> value stored in node
-        self.data = data
-        self.next = None
-'''
-def addBoth(head_a,head_b):
-    #code here
-    result = LinkedList()
-    num1 = ""
-    curr_node = head_a
-    while curr_node != None:
-        num1 += str(curr_node.data)
-        curr_node = curr_node.next
-    num1 = num1[::-1]
-    num2 = ""
-    curr_node = head_b
-    while curr_node != None:
-        num2 += str(curr_node.data)
-        curr_node = curr_node.next
-    num2 = num2[::-1]
-    num = int(num1) + int(num2)
-    num = str(num)[::-1]
-    for i in num:
-        result.append(i)
-    return result.head
+
