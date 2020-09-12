@@ -1508,7 +1508,7 @@ Have a story, not just data, about something you accomplished.
 
 Here are some good questions to ask at the end of the interview, extracted from various sources. The ones in bold are the ones that tend to make the interviewer go "That's a good question" and pause and think for a bit.
 
-# General
+### General
 - What are you most proud about in your career so far?
 - What is the most important/valuable thing you have learnt from working here?
 - How do your clients and customers define success?
@@ -1522,7 +1522,7 @@ Here are some good questions to ask at the end of the interview, extracted from 
 - When you were last interviewing, what were some of your other options, and what made you choose this company?
 - What was something you wish someone would have told you before you joined?
 - What was your best moment so far at the company?
-# Culture
+### Culture
 - What is the most frustrating part about working here?
 - What is unique about working at this company that you have not experienced elsewhere?
 - What is something you wish were different about your job?
@@ -1532,7 +1532,7 @@ Here are some good questions to ask at the end of the interview, extracted from 
 - (If the company is a startup) When was the last time you interacted with a founder? What was it regarding? Generally how involved are the founders in the day-to-day?
 - Does the company culture encourage entrepreneurship? Could you give me any specific examples?
 
-# Technical#
+### Technical
 These questions are suitable for any technical role.
 
 - What are the engineering challenges that the company/team is facing?
@@ -1553,7 +1553,7 @@ These questions are suitable for any technical role.
 - What resources does the company have for new hires to study its product and processes? Are there specifications, requirements, documentation?
 - There's "C++" (or Python, Swift or any other tech) in the job description. How will you estimate my proficiency in this tech in 3 months?
 - How do you think my expertise would be relevant to this team? What unique value can I add?
-# Product
+### Product
 - Tell me about the main products of your company.
 - What is the current version of product? (If it is v1.0 or similar - there could be a lot of chaos to work with)
 - What products are your main competitors?
@@ -1562,7 +1562,7 @@ These questions are suitable for any technical role.
 - Is the team growing, and what sort of opportunities will there be in the next year/3 years?
 - What are your highest priorities right now? For example, new features, new products, solidifying existing code, reducing operations overhead?
 
-# Management
+### Management
 These questions are suitable for asking Engineering Managers, especially useful for the Team Matching phase of Google interviews or post-offer calls that your recruiters set up with the various team managers.
 
 - How do you train/ramp up engineers who are new to the team?
@@ -1590,7 +1590,7 @@ These questions are suitable for asking Engineering Managers, especially useful 
 - What opportunities for growth will your team provide?
 - What would I work on if I joined this team and who would I work most closely with?
 
-# Leadership
+### Leadership
 These questions are intended for senior level management, such as CEO, CTO, VPs. Candidates who interview with startups usually get to speak with senior level management.
 
 - How are you funded?
@@ -1599,7 +1599,7 @@ These questions are intended for senior level management, such as CEO, CTO, VPs.
 - Tell me about your reporting structure.
 - How does the company decide on what to work on next?
 
-# HR
+### HR
 - How do you see this position evolving in the next three years?
 - Who is your ideal candidate and how can I make myself more like them?
 - What concerns/reservations do you have about me for this position?
