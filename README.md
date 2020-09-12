@@ -22,6 +22,7 @@ I am creating a new repository with additions and deletions that helped me.
 - [Before you Get Started](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
+- [Crafting Interpreters](#crafting-interpreters)
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
@@ -441,6 +442,9 @@ These are prevalent technologies but not part of this study plan:
 - SQL
 - Javascript
 - HTML, CSS, and other front-end technologies
+
+## Crafting Interpreters
+- [The Handbook for making programming languages] (https://craftinginterpreters.com/)
 
 ## The Daily Plan
 
