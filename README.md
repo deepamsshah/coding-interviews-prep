@@ -444,7 +444,7 @@ These are prevalent technologies but not part of this study plan:
 - HTML, CSS, and other front-end technologies
 
 ## Crafting Interpreters
-- [The Handbook for making programming languages] (https://craftinginterpreters.com/)
+- [The Handbook for making programming languages](https://craftinginterpreters.com/)
 
 ## The Daily Plan
 
