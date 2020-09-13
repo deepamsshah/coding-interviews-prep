@@ -19,7 +19,12 @@ I am creating a new repository with additions and deletions that helped me.
 - [3Sum](https://leetcode.com/problems/3sum/)    
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   
 
-
+### Binary
+- [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ## Table of Contents
 
