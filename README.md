@@ -56,6 +56,12 @@ I am creating a new repository with additions and deletions that helped me.
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 
+### Matrix
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [Word Search](https://leetcode.com/problems/word-search/)
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
