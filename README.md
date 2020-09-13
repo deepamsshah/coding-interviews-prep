@@ -62,6 +62,34 @@ I am creating a new repository with additions and deletions that helped me.
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [Word Search](https://leetcode.com/problems/word-search/)
 
+### Recursions
+- [Subsets](https://leetcode.com/problems/subsets/)
+- [Subsets 2](https://leetcode.com/problems/subsets-ii/)
+- [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)
+
+### String
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+
+### Tree
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
