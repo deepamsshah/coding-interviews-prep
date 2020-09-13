@@ -30,7 +30,7 @@ I am creating a new repository with additions and deletions that helped me.
 - [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [Longest Consecutive Sequence](Longest Consecutive Sequence)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 - [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
@@ -47,6 +47,14 @@ I am creating a new repository with additions and deletions that helped me.
 - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [Meeting Rooms I](https://leetcode.com/problems/meeting-rooms/)
 - [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii//)
+
+### Linked Lists
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ## Table of Contents
 
