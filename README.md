@@ -79,16 +79,22 @@ I am creating a new repository with additions and deletions that helped me.
 - [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ### Tree
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Same Tree](https://leetcode.com/problems/same-tree/)
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
-
-
+### Trie
+- [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/solution/)
+- [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
 ## Table of Contents
 
