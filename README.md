@@ -26,6 +26,28 @@ I am creating a new repository with additions and deletions that helped me.
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
+### Graph
+- [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [Longest Consecutive Sequence](Longest Consecutive Sequence)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+
+### Heap
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+### Interval
+- [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [Meeting Rooms I](https://leetcode.com/problems/meeting-rooms/)
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii//)
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
